@@ -1,5 +1,7 @@
 html {
   background-color: red;
+ display : flex;
+  justify-content:center;
 }
 h1{
   background-color:yellow;
@@ -10,3 +12,4 @@ p{
  .text{
    font-family:"Comic sans ms" ,Papyrus, Fantasy;
  }
+
