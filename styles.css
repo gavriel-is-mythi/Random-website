@@ -12,4 +12,6 @@ p{
  .text{
    font-family:"Comic sans ms" ,Papyrus, Fantasy;color:white;
  }
-
+video {
+  width:95%;
+}
