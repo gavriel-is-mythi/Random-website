@@ -10,7 +10,9 @@ p{
   background-color:orange;
 }
  .text{
-   font-family:"Comic sans ms" ,Papyrus, Fantasy;color:white;height:90%;
+   font-family:"Comic sans ms" ,Papyrus, Fantasy;
+   color:white;
+   height:500px;
  }
 video {
   width:80%;
